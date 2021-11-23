@@ -1,14 +1,20 @@
-.around {
+.around { background-color: rgb(126, 188, 243);
+}
+body{
+    background-color:rgb(185, 185, 255);
 }
 .around__body {
     max-width: 823px;
     margin: 0px auto;
+    
 }
 .around__header {
     margin: 0px 0px 65px 0px;
+    
 }
 .around__title {
     margin: 0px 0px 30px 0px;
+    
 }
 .around__text {
     max-width: 700px;
@@ -18,14 +24,17 @@
     text-align: center;
     line-height: 26px;
     margin: 0px auto;
+    
 }
 .around__row {
     display: flex;
     font-size: 23px;
     margin:0px 65px;
+    
 }
 .around__column {
     flex: 0 0 33,33%;
+    
 }
 .title {
     font-size: 34px;
@@ -36,8 +45,10 @@
     text-align: center;
     padding: 0px 0px 30px 0px;
     
+    
 }
 .item-about {
+
 }
 .item-around__icon {
     margin: 0px auto;
@@ -49,6 +60,8 @@
     align-items: center;
     justify-content:center;
     margin: 0px 0px 40px 0px;
+    background-color:rgb(252, 247, 251);
+    
 }
 .item-around__title {
     text-align: center;
@@ -57,13 +70,17 @@
     text-transform: uppercase;
     letter-spacing: 12px;
     margin:0px 50px 1px 0px;
+    
 
 }
 .item-around__text {
     margin: 0px 110px 0px 0px;
     text-align: center;
     font-size: 16px;
+    
 }
 img{ width: 115px;
 height: 115px;
-border-radius: 100%}
+border-radius: 100%;
+
+}
