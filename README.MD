@@ -1,2 +1,2 @@
-Проект немного углубиться в BEM
-https://largebro.github.io/Method_BEM/
+Проект немного углубиться в BEM /n
+https://methodbem-3d524.web.app/
